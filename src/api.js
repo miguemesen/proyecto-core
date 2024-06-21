@@ -17,7 +17,7 @@ router.get('/', (req, res) => {
 
 router.get('/test', (req, res) => {
   res.json({
-    'test': 'hello test'
+    'test': 'este mensaje viene del api'
   })
 })
 
