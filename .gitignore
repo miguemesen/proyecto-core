@@ -1,6 +1,5 @@
 node_modules
 functions
-package-lock.json
 
 # misc
 .DS_Store
