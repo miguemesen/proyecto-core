@@ -4,7 +4,7 @@ import {
   getTweet,
   createTweet,
   likeTweet,
-} from './tweet.controller';
+} from './tweetcontroller';
 
 const router = express.Router();
 router.get('/', getTweets);
